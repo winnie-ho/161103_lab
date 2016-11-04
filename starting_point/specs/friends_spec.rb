@@ -1,4 +1,5 @@
 require( 'minitest/autorun' )
+require( 'minitest/rg' )
 require_relative( '../friends' )
 
 class TestFriends < MiniTest::Test
